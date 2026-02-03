@@ -1,0 +1,12 @@
+benchmark-tool/
+├── bench.py
+├── requirements.txt
+└── README.md
+
+ИНСТРУКЦИЯ ПО ЗАПУСКУ:
+Через Terminal PyCharm
+
+1. Откройте Terminal (Alt+F12)
+2. Выполните:
+cd TestQuest
+python bench.py -H https://ya.ru
